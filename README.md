@@ -1,7 +1,6 @@
 # MCP-Kali-Server-setup
 
-#
-for zed.dev
+ # for zed.dev
 ```
 {
   "kali-tools": {
@@ -48,7 +47,7 @@ for windo surf
   }
 }
 ```
-#vs code
+# vs code
 ```
 {
   "servers": {
@@ -94,7 +93,7 @@ for windo surf
   }
 }
 ```
-#claude desktop
+# claude desktop
 ```
 {
   "mcpServers": {
