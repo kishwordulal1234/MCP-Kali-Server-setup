@@ -1,5 +1,8 @@
 # MCP-Kali-Server-setup
 
+ note change this to your file path where server file is present  C:\\Users\\kishw\\Desktop\\zotak\\mcp_server.py
+ chnage this with the server running in your kali  http://192.168.101.13:5000
+
  # for zed.dev
 ```
 {
